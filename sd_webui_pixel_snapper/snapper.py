@@ -1,7 +1,8 @@
-"""Pixel grid snapping and color quantization for AI-generated pixel art."""
-"""Original author and repo: https://github.com/Hugo-Dz/spritefusion-pixel-snapper"""
-"""Ported from Rust to Python by otacoo"""
+"""Pixel grid snapping and color quantization for AI-generated pixel art.
 
+Original author and repo: https://github.com/Hugo-Dz/spritefusion-pixel-snapper
+Ported from Rust to Python by otacoo.
+"""
 from __future__ import annotations
 
 import math
