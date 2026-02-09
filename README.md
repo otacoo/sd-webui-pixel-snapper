@@ -1,0 +1,40 @@
+# SD WebUI Pixel Snapper
+
+SD WebUI Pixel Snapper is a **SD WebUI** implementation of Pixel Snapper by [Hugo Duprez](https://www.hugoduprez.com/).
+
+**Online version**: https://spritefusion.com/pixel-snapper
+
+**Original repo:** https://github.com/Hugo-Dz/spritefusion-pixel-snapper
+
+
+### Installation
+
+1. Open the **Extensions** tab in the WebUI.
+2. Switch to **Install from URL**.
+3. Paste the extension URL and click **Install**:
+   ```
+   https://github.com/otacoo/sd-webui-pixel-snapper.git
+   ```
+4. Go to **Installed** and click **Apply and restart UI**.
+
+### Where to find it
+
+- txt2img / img2img
+- Extras
+
+### Options
+
+- **Palette size (k-colors)** – Number of colors for the palette (2–64).
+- **Max dimension** – Resize the image before processing so the longest side is at most this many pixels.\
+Use **0** for no resize (full resolution).\
+The output size is otherwise the detected grid (e.g. 1120×1440 → ~186×253).\
+Lower values are faster but produce a smaller output.
+
+
+## Acknowledgments
+
+SD WebUI Pixel Snapper is a SD WebUI implementation of Pixel Snapper by [Hugo Duprez](https://www.hugoduprez.com/).
+
+## License
+
+MIT License [Hugo Duprez](https://www.hugoduprez.com/)
